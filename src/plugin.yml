@@ -1,0 +1,8 @@
+main: me.jonaqhan.serverpro.Main
+name: Server.pro
+version: 1.0
+author: Jonaqhan
+
+commands:
+  spreload:
+    description: reloads the config of the plugin

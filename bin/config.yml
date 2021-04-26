@@ -1,0 +1,15 @@
+#-----------------------------------------------------------#
+#                        Config file                        #
+#                      Server.pro plugin                    #
+#-----------------------------------------------------------#
+
+#If a Server.pro message contains one of these words, it will be automatically blocked
+forbidden-words:
+- ads
+- free
+
+#Server.pro message server expires in 10 minutes
+server-expire-10: '&6Server &6will &6expire &6in &610 &6minutes. &6To &6continue &6playing &6renew &6your &6server &6at &cServer&c.pro'
+
+#Server.pro message server expires in 5 minutes
+server-expire-5: '&6Server &6will &6expire &6in &65 &6minutes. &6To &6continue &6playing &6renew &6your &6server &6at &cServer&c.pro'
